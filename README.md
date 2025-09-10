@@ -1,4 +1,4 @@
-# -Intellitoggle-Website-Home_Page
+# Intellitoggle-Website-Home_Page
 
 **Hosted URL:** https://intellitoggle-website-home-page-64d5kvvxm.vercel.app/
 
