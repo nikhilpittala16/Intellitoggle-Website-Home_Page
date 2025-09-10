@@ -1,6 +1,6 @@
 # Intellitoggle-Website-Home_Page
 
-**Hosted URL:**https://intellitoggle-website-home-page-gcyo4qzkn.vercel.app/
+**Hosted URL:**https://intellitoggle-website-home-page-6osngmh7k.vercel.app/
 
 ---
 ## Interaction
