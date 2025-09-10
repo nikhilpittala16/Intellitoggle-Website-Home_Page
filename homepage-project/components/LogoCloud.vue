@@ -10,7 +10,7 @@
         <img
           class="col-span-2 max-h-12 w-full object-contain lg:col-span-1"
           src="/public/GCP.png"
-          alt="Transistor"
+          alt="Google Cloud Platform logo"
           width="158"
           height="48"
           loading="lazy"
@@ -19,7 +19,7 @@
         <img
           class="col-span-2 max-h-12 w-full object-contain lg:col-span-1"
           src="/public/AWS.png"
-          alt="Reform"
+          alt="Amazon Web Services Logo"
           width="158"
           height="48"
           loading="lazy"
@@ -28,7 +28,7 @@
         <img
           class="col-span-2 max-h-12 w-full object-contain lg:col-span-1"
           src="/public/Azure.png"
-          alt="Tuple"
+          alt="Microsoft Azure Logo"
           width="158"
           height="48"
           loading="lazy"
@@ -37,7 +37,7 @@
         <img
           class="col-span-2 max-h-12 w-full object-contain sm:col-start-2 lg:col-span-1"
           src="/public/digitalocean.png"
-          alt="SavvyCal"
+          alt="Digital Ocean logo"
           width="158"
           height="48"
           loading="lazy"
@@ -46,7 +46,7 @@
         <img
           class="col-span-2 col-start-2 max-h-12 w-full object-contain sm:col-start-auto lg:col-span-1"
           src="/public/IBM.png"
-          alt="Statamic"
+          alt="IBM Logo"
           width="158"
           height="48"
           loading="lazy"
