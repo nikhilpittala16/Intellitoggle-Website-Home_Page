@@ -1,0 +1,1 @@
+import{_ as e,c as s,o,a,m as r,n}from"#entry";const c={},l={class:"bg-gradient-to-b from-[#42389E] to-[#0F1026] bg-clip-text text-transparent text-center"};function d(t,p){return o(),s("button",{class:n(["bg-[#F9A71E] px-6 py-3 rounded-lg",t.$attrs.class])},[a("p",l,[r(t.$slots,"default")])],2)}const f=e(c,[["render",d]]);export{f as Y};
