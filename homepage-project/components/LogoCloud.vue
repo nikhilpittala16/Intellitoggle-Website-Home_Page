@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white py-24 sm:py-32">
+  <section class="bg-white py-24 sm:py-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <h2 class="text-center text-2xl font-semibold text-black">
         Trusted by various engineering teams
@@ -48,5 +48,5 @@
         />
       </div>
     </div>
-  </div>
+  </section>
 </template>
