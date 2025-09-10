@@ -3,7 +3,10 @@
 **Hosted URL:** https://intellitoggle-website-home-page-64d5kvvxm.vercel.app/
 
 ---
-
+## Interaction
+- An interactive burger menu was added in the mobile design for navigation.
+  
+---
 ## Notes & Tradeoffs
 
 - **Image Handling:** Images are currently stored in the repository. With more time, I would compress them and use a cloud service (e.g., AWS blob, Firebase, Cloudinary) to keep the repo lightweight.
