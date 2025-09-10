@@ -62,6 +62,7 @@
           src="/YouTube.png"
           alt="YouTube"
           class="w-full max-w-[1150px] h-auto"
+          loading="lazy"
         />
       </div>
     </div>

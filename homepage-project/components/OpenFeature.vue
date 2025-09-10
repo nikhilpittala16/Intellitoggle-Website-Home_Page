@@ -12,6 +12,7 @@ import YellowButton from "./YellowButton.vue";
         src="/public/OpenFeature.png"
         alt="Open Feature"
         class="w-full max-w-[830px] h-auto"
+        loading="lazy"
       />
     </div>
 

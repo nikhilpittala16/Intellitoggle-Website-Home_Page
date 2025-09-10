@@ -21,6 +21,7 @@
             :src="feature.img"
             :alt="feature.title"
             class="object-cover rounded w-full md:w-[497px] h-auto"
+            loading="lazy"
           />
           <div class="mt-4">
             <h3 class="text-2xl leading-none text-[#1A1C3D]">

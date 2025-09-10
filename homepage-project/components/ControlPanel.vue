@@ -37,6 +37,7 @@
         <img
           src="/public/ControlPanel.png"
           alt="Control Panel"
+          loading="lazy"
           class="w-full max-w-[500px] md:max-w-[830px] h-auto rounded-lg"
         />
       </div>

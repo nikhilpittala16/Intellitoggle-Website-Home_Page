@@ -13,6 +13,7 @@
           alt="Transistor"
           width="158"
           height="48"
+          loading="lazy"
         />
 
         <img
@@ -21,6 +22,7 @@
           alt="Reform"
           width="158"
           height="48"
+          loading="lazy"
         />
 
         <img
@@ -29,6 +31,7 @@
           alt="Tuple"
           width="158"
           height="48"
+          loading="lazy"
         />
 
         <img
@@ -37,6 +40,7 @@
           alt="SavvyCal"
           width="158"
           height="48"
+          loading="lazy"
         />
 
         <img
@@ -45,6 +49,7 @@
           alt="Statamic"
           width="158"
           height="48"
+          loading="lazy"
         />
       </div>
     </div>

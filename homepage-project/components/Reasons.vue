@@ -24,6 +24,7 @@
           class="object-cover rounded"
           width="129"
           height="118"
+          loading="lazy"
         />
         <div class="text-center md:text-left">
           <h3 class="text-2xl leading-snug text-[#1A1C3D]">

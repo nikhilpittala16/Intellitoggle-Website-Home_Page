@@ -26,6 +26,7 @@
             class="object-cover rounded"
             height="46"
             width="46"
+            loading="lazy"
           />
           <h3 class="mt-2 text-white text-center text-lg md:text-xl">
             {{ feature.title }}
