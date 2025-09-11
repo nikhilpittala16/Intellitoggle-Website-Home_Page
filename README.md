@@ -1,8 +1,5 @@
 # Intellitoggle-Website-Home_Page
 
-**Hosted URL:**https://intellitoggle-website-home-page-6osngmh7k.vercel.app/
-
----
 ## Interaction
 - An interactive burger menu was added in the mobile design for navigation.
   
